@@ -6,6 +6,6 @@ Capitalizes and replaces dashes with spaces of Discord server channel names.
 <img width="431" height="509" alt="image" src="https://github.com/user-attachments/assets/0486bbf6-c1ba-45e1-ba9b-ca4df708de5d" />
 
 ## Download
-Vencord / Custom css link
+Copy link to Vencord or download to theme folder
 
-```https://sirnootnoot.github.io/dash2space/src/dash2space.theme.css```
+https://sirnootnoot.github.io/dash2space/src/dash2space.theme.css

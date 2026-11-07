@@ -1,7 +1,7 @@
 @font-face {
     font-family: dash2space;
     unicode-range: U+002D;
-    src: url(https://SirNootNoot.github.com/dash2space/src/dash2space.ttf) format('truetype');
+    src: url(https://SirNootNoot.github.io/dash2space/src/dash2space.ttf) format('truetype');
 }
 
 [data-list-item-id^="channels_"] [class*="name_"] [class*="md"] {

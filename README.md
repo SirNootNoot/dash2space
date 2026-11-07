@@ -8,4 +8,4 @@ Capitalizes and replaces dashes with spaces of Discord server channel names.
 ## Download
 Vencord / Custom css link
 
-```https://sirnootnoot.github.io/dash2space/src/dash2space.css```
+```https://sirnootnoot.github.io/dash2space/src/dash2space.theme.css```

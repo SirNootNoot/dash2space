@@ -15,7 +15,7 @@
 /* Channel list */
 div[id*="channels"] [data-text-variant],
 /* Message box */
-div[class*="slateTextArea"],
+div[class*="placeholder"],
 /* Channel titlebar */
 div[class*="titleWrapper"] h1,
 /* "Welcome to" Channel */

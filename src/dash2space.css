@@ -3,7 +3,7 @@
  * @author SirNootNoot
  * @description Capitalizes and replaces dashes with spaces of Discord server channel names
  * @source https://github.com/SirNootNoot/dash2space 
- * @version 1.0
+ * @version 1.1
  */
 
 @font-face {
@@ -12,7 +12,31 @@
     src: url(https://SirNootNoot.github.io/dash2space/src/dash2space.ttf) format('truetype');
 }
 
-[data-list-item-id^="channels_"] [class*="name_"] [class*="md"] {
+/* Channel list */
+div[id*="channels"] [data-text-variant] {
     font-family: dash2space, var(--font-primary); 
     text-transform: capitalize;
+} 
+
+/* Message box */
+div[class*="slateTextArea"] {
+    font-family: dash2space, var(--font-primary); 
+    text-transform: capitalize;
+}
+
+/* Channel titlebar */
+div[class*="titleWrapper"] h1 {
+    font-family: dash2space, var(--font-primary); 
+    text-transform: capitalize;
+}
+
+/* "Welcome to" Channel */
+div[id*="messages"] h3 {
+    font-family: dash2space, var(--font-primary);
+    text-transform: capitalize;
+}
+
+/* "Start of" Channel */
+div[id*="messages"] [data-text-variant] {
+    font-family: dash2space, var(--font-primary);
 }

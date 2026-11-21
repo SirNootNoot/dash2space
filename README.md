@@ -1,9 +1,10 @@
 # dash2space
-Capitalizes and replaces dashes with spaces of Discord server channel names.
+Capitalizes and replaces dashes with spaces of Discord server channel names and message box references.
 
 ## Before | After
-<img width="434" height="509" alt="image" src="https://github.com/user-attachments/assets/3b0d267b-c66e-454d-aeee-0ca133b3f71b" />
-<img width="431" height="509" alt="image" src="https://github.com/user-attachments/assets/0486bbf6-c1ba-45e1-ba9b-ca4df708de5d" />
+<img width="1320" height="1232" alt="image" src="https://github.com/user-attachments/assets/da845b57-d35d-40f5-a92e-de4f062535b1" />
+
+<img width="1315" height="1229" alt="image" src="https://github.com/user-attachments/assets/01f6aeb3-74f1-4de2-956b-58048e5b2886" />
 
 ## Download
 Copy link to Vencord or download to theme folder

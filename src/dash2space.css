@@ -13,28 +13,16 @@
 }
 
 /* Channel list */
-div[id*="channels"] [data-text-variant] {
+div[id*="channels"] [data-text-variant],
+/* Message box */
+div[class*="slateTextArea"],
+/* Channel titlebar */
+div[class*="titleWrapper"] h1,
+/* "Welcome to" Channel */
+div[id*="messages"] h3 {
     font-family: dash2space, var(--font-primary); 
     text-transform: capitalize;
 } 
-
-/* Message box */
-div[class*="slateTextArea"] {
-    font-family: dash2space, var(--font-primary); 
-    text-transform: capitalize;
-}
-
-/* Channel titlebar */
-div[class*="titleWrapper"] h1 {
-    font-family: dash2space, var(--font-primary); 
-    text-transform: capitalize;
-}
-
-/* "Welcome to" Channel */
-div[id*="messages"] h3 {
-    font-family: dash2space, var(--font-primary);
-    text-transform: capitalize;
-}
 
 /* "Start of" Channel */
 div[id*="messages"] [data-text-variant] {
